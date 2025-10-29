@@ -131,7 +131,7 @@ public function transactions() {
 public function student() {
     return $this->belongsTo(Student::class);
 }
-
+```
 
 ## Contributor
 
