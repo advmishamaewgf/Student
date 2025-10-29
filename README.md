@@ -98,16 +98,16 @@ php artisan serve
 ## Screenshots
 
 ### 1. Student List
-![Student List](https://github.com/advmishamaewgf/Student/blob/main/add_student.png)
+![Student List]
 
 ### 2. Transaction List
-![Transaction List](transactions-list.png)
+![Transaction List]
 
 ### 3. Add Student Form
-![Add Student](add-student.png)
+![Add Student](https://github.com/advmishamaewgf/Student/blob/main/add_student.png)
 
 ### 4. Add Transaction Form
-![Add Transaction](add-transaction.png)
+![Add Transaction](https://github.com/advmishamaewgf/Student/blob/main/add_transcantion.png)
 
 ### 5. Student Details
 ![Student Details](student-details.png)
