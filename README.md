@@ -84,7 +84,7 @@ php artisan key:generate
 ### 6. Run migrations and seeders
 php artisan migrate --seed
 
-# 7. Start the Laravel development server
+### 7. Start the Laravel development server
 php artisan serve
 
 ## Usage
