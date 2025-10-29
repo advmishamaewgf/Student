@@ -98,7 +98,7 @@ php artisan serve
 ## Screenshots
 
 ### 1. Student List
-![Student List](students-list.png)
+![Student List](advmishamaewgf/Student/blob/main/add_student.png)
 
 ### 2. Transaction List
 ![Transaction List](transactions-list.png)
