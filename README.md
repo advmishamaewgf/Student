@@ -1,9 +1,3 @@
-
-
-
-
-Markdown Script
-
 # Student Transaction Processing System 
 
 ## Description / Overview
