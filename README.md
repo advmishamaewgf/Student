@@ -98,7 +98,7 @@ php artisan serve
 ## Screenshots
 
 ### 1. Student List
-![Student List](advmishamaewgf/Student/blob/main/add_student.png)
+![Student List](https://github.com/advmishamaewgf/Student/blob/main/add_student.png)
 
 ### 2. Transaction List
 ![Transaction List](transactions-list.png)
