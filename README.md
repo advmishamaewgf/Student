@@ -134,6 +134,6 @@ public function student() {
 
 ##  License
 
-This project is created for **educational purposes only** as part of the Midterm Examination in Web Systems and Technologies.  
+This project is created for **educational purposes only** as part of the Midterm Examination.  
 
 
