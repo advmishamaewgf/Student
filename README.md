@@ -1,3 +1,9 @@
+
+
+
+
+Markdown Script
+
 # Student Transaction Processing System 
 
 ## Description / Overview
@@ -60,6 +66,7 @@ public function transactions() {
 public function student() {
     return $this->belongsTo(Student::class);
 }
+```
 
 ## Installation Instruction
 
